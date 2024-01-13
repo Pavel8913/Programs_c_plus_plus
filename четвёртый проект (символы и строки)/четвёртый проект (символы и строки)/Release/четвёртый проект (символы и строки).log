@@ -1,0 +1,13 @@
+﻿Сборка начата 13.03.2023 15:17:18.
+     1>Проект "E:\2год\Енин Павел\четвёртый проект (символы и строки)\четвёртый проект (символы и строки)\четвёртый проект (символы и строки).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Release\четвёртый проект (символы и строки).pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Release\четвёртый проект (символы и строки).pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "четвёртый проект (символы и строки).cpp"
+         четвёртый проект (символы и строки).cpp
+     1>четвёртый проект (символы и строки).cpp(139): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+     1>Сборка проекта "E:\2год\Енин Павел\четвёртый проект (символы и строки)\четвёртый проект (символы и строки)\четвёртый проект (символы и строки).vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.95
